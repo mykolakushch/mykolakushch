@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nikolay%20Kusch&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Indie%20.NET%20Developer%20%7C%20Ukraine&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Nikolay Kusch Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mykola%20Kushch&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Indie%20.NET%20Developer%20%7C%20Ukraine&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Mykola Kushch Banner" />
 
 <a href="https://github.com/mykolakushch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Indie+UWP+%2F+.NET+MAUI+%2F+Avalonia+UI+Developer;Creator+of+T-Drive+(v3.0+in+progress);Based+in+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Indie+.NET+Developer;Creator+of+T-Drive;Based+in+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
 </a>
 
 <br />
@@ -34,8 +34,7 @@
 
 <div align="center">
 
-**[T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)** — Free, secure, unlimited cloud file storage based on Telegram  
-⚡ *Currently working on **[T-Drive v3.0](https://t.me/tdrivecommunity)***
+**[T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)** — Free, secure, unlimited cloud file storage based on Telegram
 
 <br />
 
@@ -62,46 +61,20 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 <div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-  <img src="https://img.shields.io/badge/Avalonia_UI-8B44AC?style=flat-square&logo=dotnet&logoColor=white" alt="Avalonia UI" />
-  <img src="https://img.shields.io/badge/UWP-0078D6?style=flat-square&logo=windows&logoColor=white" alt="UWP" />
-</p>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,figma,ps,ai,xd&perline=7" height="30" alt="Skills" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,py" height="30" alt="Skills" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="155" src="https://streak-stats.demolab.com?user=mykolakushch&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=38BDF8&currStreakNum=38BDF8&dates=94A3B8" alt="GitHub Streak" />
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="./dist/github-contribution-grid-snake.svg" />
-</picture>
-
+  <img height="155" src="https://streak-stats.demolab.com?user=mykolakushch&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=38BDF8&currStreakNum=38BDF8&dates=94A3B8" alt="GitHub Streak" />
 </div>
 
 ---
