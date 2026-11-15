@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nikolay%20Kusch&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Indie%20.NET%20Developer%20%7C%20Ukraine&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Nikolay Kusch Banner" />
 
 <a href="https://github.com/mykolakushch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Indie+UWP+%2F+.NET+MAUI+%2F+Avalonia+UI+Developer;Creator+of+T-Drive+(v3.0+in+progress);Based+in+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Indie+UWP+%2F+.NET+MAUI+%2F+Avalonia+UI+Developer;Creator+of+T-Drive+(v3.0+in+progress);Based+in+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
 </a>
 
 <br />
@@ -53,21 +53,12 @@
 
 ### 📦 Open Source
 
-<div align="center">
-  <a href="https://github.com/mykolakushch/MicroserviceMonolith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mykolakushch&repo=MicroserviceMonolith&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="MicroserviceMonolith" />
-  </a>
-  <a href="https://github.com/mykolakushch/ClipboardImageDrop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mykolakushch&repo=ClipboardImageDrop&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="ClipboardImageDrop" />
-  </a>
-  <br />
-  <a href="https://github.com/mykolakushch/MX_MasterSmoothScrollHack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mykolakushch&repo=MX_MasterSmoothScrollHack&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="MX_MasterSmoothScrollHack" />
-  </a>
-  <a href="https://github.com/mykolakushch/TotalBlack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mykolakushch&repo=TotalBlack&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="TotalBlack" />
-  </a>
-</div>
+| Repository | Stack | Stars | Description |
+| :--- | :---: | :---: | :--- |
+| **[MicroserviceMonolith](https://github.com/mykolakushch/MicroserviceMonolith)** | `C#` / `.NET` | ![Stars](https://img.shields.io/github/stars/mykolakushch/MicroserviceMonolith?style=flat-square&color=38BDF8&label=) | Lightweight modular monolith framework for .NET (CQRS, event bus, middleware, execution queue, outbox) |
+| **[ClipboardImageDrop](https://github.com/mykolakushch/ClipboardImageDrop)** | `C#` | ![Stars](https://img.shields.io/github/stars/mykolakushch/ClipboardImageDrop?style=flat-square&color=38BDF8&label=) | Clipboard image utility |
+| **[MX_MasterSmoothScrollHack](https://github.com/mykolakushch/MX_MasterSmoothScrollHack)** | `Python` | ![Stars](https://img.shields.io/github/stars/mykolakushch/MX_MasterSmoothScrollHack?style=flat-square&color=38BDF8&label=) | Smooth scroll hack for Logitech MX Master |
+| **[TotalBlack](https://github.com/mykolakushch/TotalBlack)** | — | ![Stars](https://img.shields.io/github/stars/mykolakushch/TotalBlack?style=flat-square&color=38BDF8&label=) | TotalBlack project |
 
 ---
 
@@ -89,24 +80,13 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=mykolakushch&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykolakushch&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-  <br />
-  <img height="155" src="https://streak-stats.demolab.com?user=mykolakushch&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=94A3B8&currStreakNum=94A3B8&dates=64748B" alt="GitHub Streak" />
-  <br />
-  <a href="https://github.com/mykolakushch">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mykolakushch&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
 
----
+<img height="155" src="https://streak-stats.demolab.com?user=mykolakushch&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=38BDF8&currStreakNum=38BDF8&dates=94A3B8" alt="GitHub Streak" />
 
-### 🧊 Contributions
-
-<div align="center">
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
